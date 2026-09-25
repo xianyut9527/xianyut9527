@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+jack+tian+%F0%9F%91%8B;%E6%91%B8%E9%B1%BC%E7%8E%8B+%E2%80%94+shipping+code+quietly;Coffee+in%2C+clean+commits+out+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+jack+tian+%F0%9F%91%8B;%E6%91%B8%E9%B1%BC%E7%8E%8B+%E2%80%94+shipping+code+quietly;Coffee+in%2C+clean+commits+out+%E2%98%95" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/xianyut9527?tab=followers"><img src="https://img.shields.io/github/followers/xianyut9527?label=Followers&style=for-the-badge&logo=github&color=36BCF7&labelColor=1f2328" alt="Followers"></a>
