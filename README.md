@@ -51,7 +51,7 @@ building developer tooling, and keeping the pipeline green while doing it.
 
 <div align="center">
 
-<img width="95%" src="https://ghchart.rshah.org/36BCF7/xianyut9527" alt="Contribution chart" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xianyut9527&theme=tokyonight" alt="Profile details" />
 
 <br/><br/>
 
@@ -60,7 +60,7 @@ building developer tooling, and keeping the pipeline green while doing it.
 <br/><br/>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xianyut9527&theme=tokyonight" alt="Repos per language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xianyut9527&theme=tokyonight" alt="Most commit language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xianyut9527&theme=tokyonight" alt="Stats" />
 
 </div>
 
